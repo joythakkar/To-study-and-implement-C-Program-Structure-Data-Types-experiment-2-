@@ -65,6 +65,11 @@ Type Modifiers:
 
 Sample output:
 
+    Enter any integer: 3
+    Integer = 3 and size is 4 bytes
+    Enter any boolean (0 or 1): 1
+    Boolean = 1 and size is 1 bytes
+
     
 
 CONCLUSION:
